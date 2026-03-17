@@ -14,7 +14,7 @@ The purpose of this project is to demonstrate a risk-based approach to cybersecu
 - risk-register-screenshot.png
 
 ** Methodology
-Risks were assessed using qualitative ratings for likelihood and impact. Overall risk priority was determined by comparing exposure levels and identifying areas requiring mitigation.
+- Risks were assessed using qualitative ratings for likelihood and impact. Overall risk priority was determined by comparing exposure levels and identifying areas requiring mitigation.
 
 ** Example Risk Areas
 - Access control weaknesses
