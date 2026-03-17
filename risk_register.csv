@@ -1,0 +1,9 @@
+Risk ID,Asset/Area,Threat,Vulnerability,Likelihood,Impact,Risk Rating,Existing Controls,Recommended Mitigation,Owner,Status
+R-01,Employee Email,Phishing Attack,Limited user awareness,High,High,High,Basic spam filtering,Security awareness training and phishing simulations,IT/Security,Open
+R-02,VPN Access,Credential Compromise,No MFA enforcement,High,High,High,Password-only login,Implement multi-factor authentication,IT,Open
+R-03,Shared Drives,Unauthorized Access,Excessive permissions,Medium,High,High,Basic folder permissions,Conduct access review and enforce least privilege,IT/Admin,Open
+R-04,Endpoints,Malware Infection,Delayed patching,High,Medium,High,Antivirus software,Strengthen patch management process,IT,In Progress
+R-05,Customer Data,Data Exposure,Inconsistent encryption practices,Medium,High,High,Partial encryption,Enforce encryption standards across systems,Security/IT,Open
+R-06,Third-Party Vendor,Vendor Breach,Limited vendor risk review,Medium,High,High,Contract review,Add formal third-party risk assessments,Procurement/Security,Open
+R-07,Admin Accounts,Privilege Abuse,Shared admin credentials,Medium,High,High,Manual account assignment,Use unique admin accounts and monitor privileged access,IT/Security,Open
+R-08,Remote Devices,Device Loss,No full disk encryption,Medium,Medium,Medium,Device passwords,Enable full disk encryption on company laptops,IT,In Progress
