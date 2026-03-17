@@ -12,6 +12,7 @@ The purpose of this project is to demonstrate a risk-based approach to cybersecu
 ** Contents
 - Cybersecurity_Risk_Register.xlsx
 - risk-register-screenshot.png
+- risk_calculator.py
 
 ** Methodology
 - Risks were assessed using qualitative ratings for likelihood and impact. Overall risk priority was determined by comparing exposure levels and identifying areas requiring mitigation.
