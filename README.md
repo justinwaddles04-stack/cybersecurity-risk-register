@@ -19,7 +19,7 @@ existing controls, and producing a prioritized mitigation roadmap for leadership
 ## What I Did
 
 Using a likelihood × impact scoring methodology aligned with NIST CSF principles, 
-I identified and assessed 15 risks across the organization's people, processes, 
+I identified and assessed 8 risks across the organization's people, processes, 
 and technology. For each risk I documented the threat scenario, the existing control 
 environment, control gaps, and a specific mitigation recommendation.
 
